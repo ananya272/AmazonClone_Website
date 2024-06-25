@@ -35,8 +35,3 @@ Summary: Displays total price, estimated shipping, and total amount.
 Checkout Button: Button to proceed to checkout.
 Footer: Same as the homepage footer.
 
-![Screenshot 2024-06-25 131457](https://github.com/ananya272/AmazonClone_Website/assets/122593905/e2f24232-b4ef-402e-8ad3-6626d9904fb2)
-
-![Screenshot 2024-06-25 131521](https://github.com/ananya272/AmazonClone_Website/assets/122593905/3b1dcd3f-6e54-4b1b-ac94-e911c44bb9fb)
-
-![Screenshot 2024-06-25 131538](https://github.com/ananya272/AmazonClone_Website/assets/122593905/1f5fd960-2337-4ab0-b5b3-c4b52fe9eb78)
